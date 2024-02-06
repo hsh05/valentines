@@ -1,6 +1,6 @@
 body {
     margin:0;
-    background-image: url("/images/background.png");
+    background-image: url("./background.png");
     display: flex;
     flex-direction: column;
     justify-content: center;
